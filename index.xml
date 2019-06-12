@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Name</title>
+    <link>/</link>
+    <description>Recent content on Blog Name</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2019, all rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Jun 2019 23:27:00 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post2</title>
+      <link>/post/test-post2/</link>
+      <pubDate>Tue, 11 Jun 2019 23:27:00 -0700</pubDate>
+      
+      <guid>/post/test-post2/</guid>
+      <description>Test Post 2 Telephone signaling is basically a matter of transferring information be-tween machines, and between hurrahs and machines. The techniques de-veloped to accomplish this have evolved over the years in step with advancesin the total telephone art. The history of this evolution is traced, s~artingfrom the early simple manual switchboard days to the present Direct Dis-lance Dialing era. The effect of the increasing sophistication in automaticswitching and transmission systems and their i~fluence on signaling prin-ciples are discussed.</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>/post/test-post/</link>
+      <pubDate>Tue, 11 Jun 2019 23:22:14 -0700</pubDate>
+      
+      <guid>/post/test-post/</guid>
+      <description>Test Post 1 Batch Processing The earliest computers were extremely expensive devices, and very slow in comparison to later models. Machines were typically dedicated to a particular set of tasks and operated by control panels, the operator manually entering small programs via switches in order to load and run a series of programs. These programs might take hours, or even weeks, to run. As computers grew in speed, run times dropped, and soon the time taken to start up the next program became a concern.</description>
+    </item>
+    
+  </channel>
+</rss>
